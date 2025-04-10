@@ -1,9 +1,9 @@
 
 Bank Management System
 
-*Project Title:* Bank Management System  
-*Language:* C++  
-*Platform:* Console Application  
+*Project Title:*  Bank Management System  
+*Language:*  C++  
+*Platform:*  Console Application  
 
 Description
 
@@ -58,18 +58,17 @@ Screenshots
    The first screen asks the admin to enter the username and displays the current date.
    The user must log in to access the system.
   
-
 ![Login Screen](https://github.com/RABHI7738/Bank-Management-System/raw/main/Images/Login%20Screen.png)
 
 2. *Main Screen*  
    After logging in, the main screen provides options to manage clients, users, transactions, and more.
 
-   image2
+  ![Login Screen](https://github.com/RABHI7738/Bank-Management-System/raw/main/Images/Main%20Screen.png)
 
 3. *Transactions Screen*  
    This screen allows the admin to manage client transactions, including deposits, withdrawals, and transfers.
 
-   image3
+   ![Login Screen](https://github.com/RABHI7738/Bank-Management-System/raw/main/Images/Transactions%20Screen.png)
 
 ---
 
@@ -77,6 +76,7 @@ Technologies Used
 
 - *C++*: The main language used for the development of the entire application.
 - *File Management*: Data is stored and managed using file operations in C++.
-- *Object-Oriented Programming (OOP)*: Using classes (Classes) to organize the code and link various parts of the application together.
+- *Object-Oriented Programming (OOP)*: Using classes (Classes) to organize the code and link various parts of the 
+   application together.
 - *Class Libraries*: Using class libraries to link different interfaces within the system in a flexible way.
 - *Console Application*: A simple text-based interface that interacts with users through command line input.
