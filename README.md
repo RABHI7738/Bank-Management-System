@@ -59,7 +59,7 @@ Screenshots
    The user must log in to access the system.
   
 
-[image1](https://github.com/RABHI7738/Bank-Management-System/raw/main/Images/Login%20Screen.png)
+[Login Screen](https://github.com/RABHI7738/Bank-Management-System/raw/main/Images/Login%20Screen.png)
 
 2. *Main Screen*  
    After logging in, the main screen provides options to manage clients, users, transactions, and more.
